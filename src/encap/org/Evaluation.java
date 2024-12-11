@@ -33,7 +33,7 @@ public char addGrade(int mark  ) {
 			
 			System.out.println("PASS with E Grade");
 			
-			 grade = 'E';
+			 grade = 'F';
 			
 			 
 			
